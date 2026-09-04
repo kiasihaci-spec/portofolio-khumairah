@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi aplikasi manajemen tugas</title>
+  <rect width="900" height="500" fill="#fff7ed"/>
+  <rect x="70" y="54" width="760" height="392" rx="18" fill="#fff" stroke="#fed7aa" stroke-width="4"/>
+  <rect x="70" y="54" width="760" height="66" rx="18" fill="#ea580c"/><rect x="105" y="78" width="170" height="20" rx="10" fill="#ffedd5"/><circle cx="748" cy="87" r="16" fill="#fed7aa"/>
+  <rect x="112" y="158" width="200" height="236" rx="12" fill="#fff7ed"/><rect x="350" y="158" width="200" height="236" rx="12" fill="#fef3c7"/><rect x="588" y="158" width="200" height="236" rx="12" fill="#ecfccb"/>
+  <rect x="140" y="186" width="130" height="16" rx="8" fill="#9a3412"/><rect x="378" y="186" width="130" height="16" rx="8" fill="#a16207"/><rect x="616" y="186" width="130" height="16" rx="8" fill="#4d7c0f"/>
+  <g fill="#fff" stroke="#fed7aa" stroke-width="3"><rect x="140" y="228" width="145" height="52" rx="9"/><rect x="140" y="298" width="145" height="52" rx="9"/><rect x="378" y="228" width="145" height="52" rx="9"/><rect x="616" y="228" width="145" height="52" rx="9"/></g>
+</svg>

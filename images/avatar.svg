@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi avatar developer</title>
+  <desc id="desc">Ilustrasi wajah sederhana dengan latar biru</desc>
+  <rect width="600" height="600" rx="300" fill="#dbeafe"/>
+  <circle cx="300" cy="255" r="125" fill="#f8c9a8"/>
+  <path d="M174 248c6-112 70-166 132-166 84 0 128 68 123 164-34-33-72-46-116-44-47 2-91 18-139 46Z" fill="#1e293b"/>
+  <circle cx="253" cy="260" r="12" fill="#0f172a"/>
+  <circle cx="347" cy="260" r="12" fill="#0f172a"/>
+  <path d="M260 330c26 22 54 22 80 0" fill="none" stroke="#9a3412" stroke-width="10" stroke-linecap="round"/>
+  <path d="M155 560c8-111 63-166 145-166s137 55 145 166" fill="#2563eb"/>
+  <path d="M232 402h136l-68 82Z" fill="#38bdf8"/>
+</svg>
